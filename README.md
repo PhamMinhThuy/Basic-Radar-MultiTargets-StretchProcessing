@@ -1,4 +1,4 @@
-# Basic_Radar_MultiTargets_StretchProcessing
+# Basic-Radar-MultiTargets-StretchProcessing
 Python implementation of basic radar detection of FMCW i.e., chirp using stretch processing 
 
 * DATE OF CURRENT VERSION (V1.0): Jan 2020 
